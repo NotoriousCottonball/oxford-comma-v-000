@@ -3,6 +3,6 @@ def oxford_comma(array)
     array.join(" and ")
   else
     final_word = array.pop
-    stringarray.join(", ")
+    new_string = array.join(", ")
     
 end
